@@ -1,0 +1,15 @@
+# Dependencias, compilación y archivos locales
+**/node_modules/
+**/target/
+**/dist/
+**/.idea/
+**/.vscode/
+*.log
+*.local
+.env
+.env.*
+!**/.env.development
+!**/.env.example
+*.pem
+*.key
+.DS_Store
